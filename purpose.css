@@ -1,0 +1,48 @@
+html, *{
+    font-family: 'Sora', sans-serif;
+}
+
+body{
+    background: rgb(116,80,133);
+background: radial-gradient(circle, rgba(116,80,133,1) 0%, rgba(204,173,225,1) 35%, rgba(0,0,0,1) 100%);
+}
+.content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 90%;
+  }
+
+  .comingsoon{
+color: #E3DED1;
+margin-bottom: 4rem;
+font-size: 4rem;
+  }
+
+  .purpose{
+color: #FFFFFF;
+margin-bottom: 4rem;
+font-size: 7rem;
+letter-spacing: 2rem;
+  }
+
+  .tagline{
+color: #745085;
+font-size: 2.4rem;
+margin-bottom: 2rem;
+
+text-shadow: 0px 0px 3px rgba(255, 255, 255, 1);
+
+
+  }
+
+  .bodytext{
+color: #EEEEEE;
+font-size: 1.5rem;
+  }
+
+  .icons{
+      color: #EFECCA
+  }
